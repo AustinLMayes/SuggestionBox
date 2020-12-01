@@ -1,0 +1,7 @@
+name: SuggestionBox
+main: me.austinlm.suggestionbox.SuggestionBoxPlugin
+version: ${project.version}
+authors:
+  - Austin Mayes
+commands: {}
+api-version: 1.16
